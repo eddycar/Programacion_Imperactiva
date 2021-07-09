@@ -1,2 +1,2 @@
 # Programacion_Imperactiva
-dtfyghujkol
+Repositorio de ejercicios de la materia programacion imperactiva
